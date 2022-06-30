@@ -1,4 +1,4 @@
-let colorEyes = 'green';	
+let colorEyes = 'green';
 let user = '';
 let userName = 'Вася';
 
@@ -15,3 +15,9 @@ console.log(userAge);
 
 userAge = String(userAge);
 console.log(`Я родился уже как ${userAge} лет назад`);
+
+
+
+
+
+console.log('Test 2');
