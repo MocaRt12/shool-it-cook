@@ -17,31 +17,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 /*--------------------*/
 
 // Переменные
-$black: #2D3436;
-$grey_64: #5C5C5C;
-$grey_48: #858585;
-$grey_32: #ADADAD;
-$grey_24: #C2C2C2;
-
 $black_gradient: linear-gradient(180deg, #2D3436 0%, rgba(45, 52, 54, 0) 100%);
-
-$dark_blue: #0984E3;
-$light_blue: #74B9FF;
-
-$dark_green: #00B894;
-$light_green: #55EFC4;
-
-$dark_yellow: #FDCB6E;
-$light_yellow: #FFEAA7;
-
-$dark_red: #D63031;
-$light_red: #FF7675;
-
-$dark_purple: #6C5CE7;
-$light_purple: #A29BFE;
-
-$dark_pink: #E84393;
-$light_pink: #FD79A8;
 
 // Шаблоны
 %standart {
